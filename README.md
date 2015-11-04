@@ -6,3 +6,5 @@ BaseAdapter使用步骤
   4,修改getItem()方法返回值为list.get(position);
   5,修改getItemId返回值为position
   6,重写getView()方法，设置item内容
+<第一行代码>
+<Android群英传>
