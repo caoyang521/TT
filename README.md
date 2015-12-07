@@ -52,3 +52,6 @@ Android中默认认为View是消耗onTouchEvent()的，即返回值为true，除
 
 更多参考资料
 Android开发艺术探索-第三章 View的事件体系
+
+
+####不要单纯的去想，要去做，脚踏实地的做
